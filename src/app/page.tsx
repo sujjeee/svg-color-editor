@@ -80,6 +80,7 @@ export default function page() {
 
         </svg>
     `;
+
     return (
         <main className='flex justify-center items-center h-screen'>
             {!showEditor ? (
